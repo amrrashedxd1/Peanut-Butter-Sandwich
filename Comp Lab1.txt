@@ -3,7 +3,7 @@
 // Name(s): Amr Elsayed 
 //        : Christie 
 //        : Matt
-// Task 1:making a Peanut butter sandwich
+// Task 1:Making a Peanut butter Sandwich
 // Steps:
 //          1- Gather Your Ingredients for the Sandwich
 //          2- Pull Out Two Slices of Bread
