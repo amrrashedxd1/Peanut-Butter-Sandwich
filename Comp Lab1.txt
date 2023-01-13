@@ -1,7 +1,7 @@
 // CSCI 1550: HW 1, Problem 2 
 // Filename: hw1pr2.txt 
 // Name(s): Amr Elsayed 
-//        : Christie 
+//        : Christie A
 //        : Matt
 // Task 1:Making a Peanut butter Sandwich
 // Steps:
